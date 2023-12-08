@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last updated: [Date]
+Last updated: 8/12/2023
 
 This Privacy Policy applies to the use of the SpeechBuddy AI Chrome extension ("Extension") developed by [Company Name], which utilizes artificial intelligence to create speech therapy questions based on the content of websites that users visit. This policy outlines how we collect, use, protect, and disclose information gathered from users of the Extension.
 
